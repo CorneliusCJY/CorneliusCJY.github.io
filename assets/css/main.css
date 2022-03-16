@@ -224,7 +224,7 @@ input, select, textarea {
 
 		pre code {
 			display: block;
-			line-height: 0.2em;
+			line-height: 0.9em;
 			padding: 0.5em 0.5em;
 			overflow-x: auto;
 		}
