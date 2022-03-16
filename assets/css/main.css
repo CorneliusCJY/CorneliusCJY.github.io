@@ -102,7 +102,7 @@ input, select, textarea {
 		font-family: "Source Sans Pro", Helvetica, sans-serif;
 		font-size: 16pt;
 		font-weight: 400;
-		line-height: 1.75em;
+		line-height: 1em;
 	}
 
 	a {
@@ -224,7 +224,7 @@ input, select, textarea {
 
 		pre code {
 			display: block;
-			line-height: 0.25em;
+			line-height: 0.2em;
 			padding: 0.5em 0.5em;
 			overflow-x: auto;
 		}
